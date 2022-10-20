@@ -1,0 +1,15 @@
+C:\Facultate\Limbaje de Programare 1\Lab 1\bin\Debug\net6.0\Lab 1.exe
+C:\Facultate\Limbaje de Programare 1\Lab 1\bin\Debug\net6.0\Lab 1.deps.json
+C:\Facultate\Limbaje de Programare 1\Lab 1\bin\Debug\net6.0\Lab 1.runtimeconfig.json
+C:\Facultate\Limbaje de Programare 1\Lab 1\bin\Debug\net6.0\Lab 1.dll
+C:\Facultate\Limbaje de Programare 1\Lab 1\bin\Debug\net6.0\Lab 1.pdb
+C:\Facultate\Limbaje de Programare 1\Lab 1\obj\Debug\net6.0\Lab 1.csproj.AssemblyReference.cache
+C:\Facultate\Limbaje de Programare 1\Lab 1\obj\Debug\net6.0\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Limbaje de Programare 1\Lab 1\obj\Debug\net6.0\Lab 1.AssemblyInfoInputs.cache
+C:\Facultate\Limbaje de Programare 1\Lab 1\obj\Debug\net6.0\Lab 1.AssemblyInfo.cs
+C:\Facultate\Limbaje de Programare 1\Lab 1\obj\Debug\net6.0\Lab 1.csproj.CoreCompileInputs.cache
+C:\Facultate\Limbaje de Programare 1\Lab 1\obj\Debug\net6.0\Lab 1.dll
+C:\Facultate\Limbaje de Programare 1\Lab 1\obj\Debug\net6.0\refint\Lab 1.dll
+C:\Facultate\Limbaje de Programare 1\Lab 1\obj\Debug\net6.0\Lab 1.pdb
+C:\Facultate\Limbaje de Programare 1\Lab 1\obj\Debug\net6.0\Lab 1.genruntimeconfig.cache
+C:\Facultate\Limbaje de Programare 1\Lab 1\obj\Debug\net6.0\ref\Lab 1.dll
