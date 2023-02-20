@@ -1,0 +1,15 @@
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\obj\Debug\net6.0\Lab 5-1.csproj.AssemblyReference.cache
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\obj\Debug\net6.0\Lab 5-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\obj\Debug\net6.0\Lab 5-1.AssemblyInfoInputs.cache
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\obj\Debug\net6.0\Lab 5-1.AssemblyInfo.cs
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\obj\Debug\net6.0\Lab 5-1.csproj.CoreCompileInputs.cache
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\bin\Debug\net6.0\Lab 5-1.exe
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\bin\Debug\net6.0\Lab 5-1.deps.json
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\bin\Debug\net6.0\Lab 5-1.runtimeconfig.json
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\bin\Debug\net6.0\Lab 5-1.dll
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\bin\Debug\net6.0\Lab 5-1.pdb
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\obj\Debug\net6.0\Lab 5-1.dll
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\obj\Debug\net6.0\refint\Lab 5-1.dll
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\obj\Debug\net6.0\Lab 5-1.pdb
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\obj\Debug\net6.0\Lab 5-1.genruntimeconfig.cache
+C:\Facultate\Limbaje-de-programare-1\Lab 5-1\obj\Debug\net6.0\ref\Lab 5-1.dll
